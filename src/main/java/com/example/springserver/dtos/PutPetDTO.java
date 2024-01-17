@@ -1,9 +1,8 @@
-package com.example.springserver.logic;
+package com.example.springserver.dtos;
 
+import com.example.springserver.logic.Pet;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-
-import java.io.Serializable;
 
 @Getter
 @AllArgsConstructor
